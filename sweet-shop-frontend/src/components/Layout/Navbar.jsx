@@ -29,7 +29,7 @@ const Navbar = () => {
           </div>
           <button onClick={handleLogout} style={styles.logoutBtn}>
             <LogOut size={18} />
-            Logout 
+            Logout2
           </button>
         </div>
       </div>
